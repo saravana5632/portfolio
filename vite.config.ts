@@ -7,7 +7,7 @@ export default defineConfig(({ mode }) => {
   const env = loadEnv(mode, '.', '');
 
   // Must match your GitHub repository name exactly
-  const REPO_NAME = '/test';
+  const REPO_NAME = '/portfolio';
 
   return {
     plugins: [react(), tailwindcss()],
