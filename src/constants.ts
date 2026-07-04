@@ -99,7 +99,7 @@ export const CERTIFICATIONS = [
     date: "Mar 2026",
     credentialId: "82781947-85367-735576-4",
     link: "https://www.futureskillsprime.in//LX/ecertificate/verification?id=82781947-85367-735576-4",
-    image: "public/images/nasscom_cert_1777100563603.png"
+    image: "images/nasscom_cert_1777100563603.png"
   },
   {
     title: "Problem Solving in Artificial Intelligence",
@@ -107,7 +107,7 @@ export const CERTIFICATIONS = [
     date: "Mar 2026",
     credentialId: "UC-d60f417d-eb38-4fd2-9ba5-24e7efed0022",
     link: "https://www.udemy.com/certificate/UC-d60f417d-eb38-4fd2-9ba5-24e7efed0022",
-    image: "public/images/udemy_cert_1777100582659.png"
+    image: "images/udemy_cert_1777100582659.png"
   },
   {
     title: "Employability Skills",
@@ -115,7 +115,7 @@ export const CERTIFICATIONS = [
     date: "Jun 2025",
     credentialId: "685fbc8edbb1c63612fbe69a",
     link: "https://web.certificate.wfglobal.org/en/certificate?certificateId=685fbc8edbb1c63612fbe69a",
-    image: "public/images/wadhwani_cert_1777100599415.png"
+    image: "images/wadhwani_cert_1777100599415.png"
   },
   {
     title: "AI for Beginners",
@@ -123,7 +123,7 @@ export const CERTIFICATIONS = [
     date: "Dec 2024",
     credentialId: "524fb972-ba1d-41f2-9518-a47d363f1972",
     link: "https://www.life-global.org/certificate/524fb972-ba1d-41f2-9518-a47d363f1972",
-    image: "public/images/hp_life_cert_1777100616723.png"
+    image: "images/hp_life_cert_1777100616723.png"
   },
   {
     title: "Introduction to Machine Learning",
@@ -131,7 +131,7 @@ export const CERTIFICATIONS = [
     date: "Oct 2024",
     credentialId: "VJXMJUOR",
     link: "https://www.mygreatlearning.com/certificate/VJXMJUOR",
-    image: "public/images/great_learning_cert_1777100630955.png"
+    image: "images/great_learning_cert_1777100630955.png"
   }
 ];
 
