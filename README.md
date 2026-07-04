@@ -18,44 +18,6 @@ A modern and responsive personal portfolio website showcasing my projects, skill
 * Vite
 * Tailwind CSS
 
-## Getting Started
-
-### Prerequisites
-
-* Node.js
-* npm
-
-### Installation
-
-1. Clone the repository
-
-```bash
-git clone https://github.com/saravana5632/portfolio.git
-```
-
-2. Navigate to the project directory
-
-```bash
-cd portfolio
-```
-
-3. Install dependencies
-
-```bash
-npm install
-```
-
-4. Start the development server
-
-```bash
-npm run dev
-```
-
-## Build for Production
-
-```bash
-npm run build
-```
 
 ## Live Demo
 
