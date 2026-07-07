@@ -159,6 +159,23 @@ export const EDUCATION = [
 export const EXPERIENCE = [
   {
     role: "Data Analyst Intern",
+    company: "Beskilled",
+    duration: "4 Weeks",
+    highlights: [
+      "Completed a 4-week Data Analytics internship working with Excel, SQL, Python (Pandas), and Power BI.",
+      "Analyzed business datasets, cleaned data, built interactive dashboards, and generated business insights.",
+      "Developed a Sales Performance Dashboard (Excel) and a Financial Sales Dashboard (Power BI).",
+      "Conducted SQL Sales Data Analysis (MySQL) and Workout Data Cleaning using Pandas."
+    ],
+    techStack: ["Excel", "SQL", "MySQL", "Python", "Pandas", "Power BI", "DAX", "Data Cleaning", "Dashboard Development", "Data Visualization", "Business Analytics"],
+    metrics: [
+      { label: "Dashboards Built", value: "2" },
+      { label: "Projects Completed", value: "4" },
+      { label: "Technologies Used", value: "10+" }
+    ]
+  },
+  {
+    role: "Data Analyst Intern",
     company: "Codec Technologies",
     duration: "Dec 2025",
     highlights: [

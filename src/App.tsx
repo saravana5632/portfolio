@@ -11,6 +11,8 @@ import { Education } from "./components/Education";
 import { Resume } from "./components/Resume";
 import { Contact, Footer } from "./components/Contact";
 import { ScrollToTop } from "./components/ScrollToTop";
+import { ScrollProgress } from "./components/ScrollProgress";
+import { SectionReveal } from "./components/SectionReveal";
 import { TooltipProvider } from "@/components/ui/tooltip";
 
 export default function App() {
@@ -21,18 +23,19 @@ export default function App() {
   return (
     <TooltipProvider>
       <div className="min-h-screen bg-background text-foreground font-sans selection:bg-primary/30">
+        <ScrollProgress />
         <Navbar />
         <main>
-          <Hero />
-          <About />
-          <Skills />
-          <Tools />
-          <Projects />
-          <Experience />
-          <Certifications />
-          <Education />
-          <Resume />
-          <Contact />
+          <SectionReveal><Hero /></SectionReveal>
+          <SectionReveal><About /></SectionReveal>
+          <SectionReveal><Skills /></SectionReveal>
+          <SectionReveal><Tools /></SectionReveal>
+          <SectionReveal><Projects /></SectionReveal>
+          <SectionReveal><Experience /></SectionReveal>
+          <SectionReveal><Certifications /></SectionReveal>
+          <SectionReveal><Education /></SectionReveal>
+          <SectionReveal><Resume /></SectionReveal>
+          <SectionReveal><Contact /></SectionReveal>
         </main>
         <Footer />
         <ScrollToTop />
