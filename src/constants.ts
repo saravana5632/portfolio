@@ -159,7 +159,7 @@ export const EDUCATION = [
 export const EXPERIENCE = [
   {
     role: "Data Analyst Intern",
-    company: "Beskilled",
+    company: "Beeskilled",
     duration: "4 Weeks",
     highlights: [
       "Completed a 4-week Data Analytics internship working with Excel, SQL, Python (Pandas), and Power BI.",
