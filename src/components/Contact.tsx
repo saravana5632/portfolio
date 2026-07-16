@@ -41,7 +41,7 @@ export function Contact() {
   const handleCopyEmail = (e: React.MouseEvent) => {
     e.preventDefault();
     e.stopPropagation();
-    navigator.clipboard.writeText("oatktg.saravana5632@gmail.com")
+    navigator.clipboard.writeText("saravana5632.personal@gmail.com")
       .then(() => {
         setShowToast(true);
         setTimeout(() => setShowToast(false), 3000);
@@ -116,7 +116,7 @@ export function Contact() {
                 <div className="space-y-8">
                   <div className="flex flex-col sm:flex-row sm:items-center gap-4 sm:gap-6 p-4 rounded-2xl glass hover:bg-muted/35 transition-all duration-300 group/email">
                     <a
-                      href="mailto:oatktg.saravana5632@gmail.com"
+                      href="saravana5632.personal@gmail.com"
                       className="flex items-center gap-4 group cursor-pointer flex-1 min-w-0"
                       aria-label="Send email to Saravanakumar"
                     >
