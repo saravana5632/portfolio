@@ -116,7 +116,7 @@ export function Contact() {
                 <div className="space-y-8">
                   <div className="flex flex-col sm:flex-row sm:items-center gap-4 sm:gap-6 p-4 rounded-2xl glass hover:bg-muted/35 transition-all duration-300 group/email">
                     <a
-                      href="saravana5632.personal@gmail.com"
+                      href="mailto:saravana5632.personal@gmail.com"
                       className="flex items-center gap-4 group cursor-pointer flex-1 min-w-0"
                       aria-label="Send email to Saravanakumar"
                     >
