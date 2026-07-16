@@ -125,7 +125,7 @@ export function Contact() {
                       </div>
                       <div className="min-w-0 flex-1">
                         <div className="text-xs font-bold text-muted-foreground uppercase tracking-widest mb-1">Email Me</div>
-                        <div className="text-sm sm:text-base md:text-lg font-medium truncate block">oatktg.saravana5632@gmail.com</div>
+                        <div className="text-sm sm:text-base md:text-lg font-medium truncate block">saravana5632.personal@gmail.com</div>
                       </div>
                     </a>
                     
