@@ -29,6 +29,7 @@ https://saravana5632.github.io/portfolio/
 
 * LinkedIn: https://www.linkedin.com/in/saravanakumar
 * GitHub: https://github.com/saravana5632
+* Mail: saravana5632.personal@gmail.com
 
 ## License
 
