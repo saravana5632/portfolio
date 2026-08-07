@@ -3,7 +3,7 @@ import { Button } from "@/components/ui/button";
 import { Download, FileText, Smartphone, ExternalLink } from "lucide-react";
 export function Resume() {
   const resumePath = `${import.meta.env.BASE_URL}resume.pdf`;
-  const resumeImg = "images/resume_preview.jpeg";
+  const resumeImg = "images/resume_preview.jpg";
 
   return (
     <section id="resume" className="py-24 bg-background">
