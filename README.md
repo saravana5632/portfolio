@@ -19,8 +19,7 @@ A modern and responsive personal portfolio website showcasing my projects, skill
 * Tailwind CSS
 
 
-## Live Demo
-
+## Live 
 Visit the portfolio website:
 
 https://saravana5632.github.io/portfolio/
