@@ -19,8 +19,7 @@ A modern and responsive personal portfolio website showcasing my projects, skill
 * Tailwind CSS
 
 
-## Live Demo
-
+## Live 
 Visit the portfolio website:
 
 https://saravana5632.github.io/portfolio/
@@ -30,6 +29,7 @@ https://saravana5632.github.io/portfolio/
 * LinkedIn: https://www.linkedin.com/in/saravanakumar
 * GitHub: https://github.com/saravana5632
 * Mail: saravana5632.personal@gmail.com
+* LeetCode: https://leetcode.com/saravana5632
 
 ## License
 

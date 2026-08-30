@@ -140,7 +140,7 @@ export const EDUCATION = [
     institution: "Panimalar Engineering College",
     degree: "B.Tech (Computer Science and Business Systems)",
     period: "Sep 2024 – Sep 2028",
-    details: "Focusing on AI, ML, and Data-driven business solutions. Current CGPA: 7.89"
+    details: "Focusing on AI, ML, and Data-driven business solutions. Current CGPA: 8.12"
   },
   {
     institution: "Sri Krishnammal Matriculation Higher Secondary School",
