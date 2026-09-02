@@ -2,7 +2,7 @@ import { motion } from "motion/react";
 import { Button } from "@/components/ui/button";
 import { Download, FileText, Smartphone, ExternalLink } from "lucide-react";
 export function Resume() {
-  const resumePath = `${import.meta.env.BASE_URL}resume.pdf`;
+  const resumePath = `${import.meta.env.BASE_URL}resume/Saravana_resume.pdf`;
   const resumeImg = "images/resume_preview.jpg";
 
   return (
