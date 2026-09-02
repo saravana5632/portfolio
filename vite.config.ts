@@ -13,7 +13,7 @@ export default defineConfig(({ mode }) => {
     plugins: [react(), tailwindcss()],
 
     // Use '/' as base in AI Studio
-   base: '/portfolio/',
+   base: '/',
   
     define: {
       // NOTE: This key is visible in your built JS bundle.
